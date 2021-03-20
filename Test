@@ -1,6 +1,0 @@
-import numpy
-
-def A(self):
-  self=self+1
-  return self
-  
